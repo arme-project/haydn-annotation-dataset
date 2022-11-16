@@ -1,0 +1,26 @@
+ID,Have you studied music or are you a professional musician?,"Have you ever annotated musical events before (e.g., using Sonic Visualiser)?","Years of experience playing music? (e.g., 0 if none)","What is your primary musical instrument? (e.g., 'none' if you do not play musical instruments)",Do you have any known hearing impairment?,Age
+0,expert,expert,n/a,n/a,n/a,n/a
+1,yes,no,17,piano,no,23
+2,yes,no,48,cello,no,55
+3,yes,no,24,piano,no,28
+4,yes,yes,10,guitar,no,36
+5,no,yes,3,dj-ing,no,44
+6,yes,yes,20,piano,no,25
+7,no,no,0,none,no,30
+8,yes,no,8,clarinet,no,25
+9,no,no,0,none,no,21
+10,no,no,23,guitar,no,37
+11,no,no,0,none,no,27
+12,yes,yes,13,trumpet/cornet,no,21
+13,yes,no,5,none,no,21
+14,yes,yes,13,guitar,no,28
+15,yes,no,3,guitar,no,24
+16,yes,no,10,oboe,no,25
+17,yes,no,3,vocals,no,21
+18,yes,no,16,piano,no,20
+19,yes,yes,15,guitar,no,26
+20,yes,yes,30,piano,no,38
+21,no,yes,1,guitar,no,23
+22,yes,no,5,piano,no,27
+23,yes,no,6,guitar,no,25
+24,no,no,0,none,yes,24
